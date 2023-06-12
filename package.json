@@ -1,0 +1,17 @@
+{
+  "name": "payfast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon start.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.2.0",
+    "nodemon": "^2.0.22"
+  }
+}

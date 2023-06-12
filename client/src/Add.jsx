@@ -48,8 +48,8 @@ const [eur,SetEur]=useState(0);
 
 useEffect(()=>{
    
-// checkkUsd()
-// checkkEur()
+checkkUsd()
+checkkEur()
 
  
 },[])
